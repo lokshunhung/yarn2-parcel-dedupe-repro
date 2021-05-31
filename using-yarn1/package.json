@@ -1,0 +1,9 @@
+{
+    "name": "@repro1/root",
+    "version": "0.0.1",
+    "license": "MIT",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ]
+}
