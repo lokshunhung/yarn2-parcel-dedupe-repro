@@ -1,3 +1,13 @@
+# Edit: it's fixed in [#2500](https://github.com/yarnpkg/berry/issues/2500)
+
+To upgrade to unreleased version of yarn:
+
+```sh
+$ yarn set version from sources
+```
+
+Ref parcel issue [#4064](https://github.com/parcel-bundler/parcel/issues/4064#issuecomment-843372318)
+
 # yarn2-parcel-dedupe-repro
 
 This repository contains code to reproduce the difference in `yarn v1` and `yarn v2` with `nodeLinkers: node-modules` for [yarnpkg/berry issue #2962](https://github.com/yarnpkg/berry/issues/2962)
