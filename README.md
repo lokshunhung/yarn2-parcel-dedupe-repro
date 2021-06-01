@@ -1,6 +1,6 @@
 # yarn2-parcel-dedupe-repro
 
-This repository contains code to reproduce the difference in `yarn v1` and `yarn v2` with `nodeLinkers: node-modules`.
+This repository contains code to reproduce the difference in `yarn v1` and `yarn v2` with `nodeLinkers: node-modules` for [yarnpkg/berry issue #2962](https://github.com/yarnpkg/berry/issues/2962)
 
 ## Deduplication behaviour differences
 
